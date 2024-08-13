@@ -5,5 +5,6 @@ A fully responsive weather Application using HTML CSS And Javascript
 <br>
 # On Mobile Device
 <br>
-![Weather App Mobile](https://github.com/user-attachments/assets/544f1502-dc36-43b8-8a02-0e65762d9766)
+<img width="640" alt="Weather App Mobile" src="https://github.com/user-attachments/assets/7a03baac-c51e-45cc-8370-bfa35c99962c">
+
 

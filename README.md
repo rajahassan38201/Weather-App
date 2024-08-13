@@ -1,5 +1,7 @@
-# Weather-App
-A fully responsive weather Application using HTML CSS And Javascript
+# Weather-App 
+<br>
+# A fully responsive weather Application using HTML CSS And Javascript
+<br>
 <br>
 <img width="652" alt="weather App" src="https://github.com/user-attachments/assets/a6170078-6719-4d60-96ff-10850f625d4f">
 <br>
